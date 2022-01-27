@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://sadibhaai.github.io/"
+baseURL = "ogit.tech"
 title = "OGIT | Go Beyond"
 theme = "ogit"
 # post pagination
