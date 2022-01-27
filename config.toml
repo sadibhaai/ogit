@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://ogit.tech"
 title = "OGIT | Go Beyond"
 theme = "ogit"
 # post pagination
